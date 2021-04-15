@@ -5,7 +5,7 @@ The JamCovid System is used to manage promoters and events
 ## Table of Contents
 
 - Promoter Management
-    -  Add
+    -  [Add](#pookie)
     -  Edit
     -  Delete
     -  Clear All
@@ -17,7 +17,7 @@ The JamCovid System is used to manage promoters and events
     -  Invite
     -  Back
 
-## Promoter Management
+## <a name="pookie"></a> Promoter Management
 
 1. Select Promoter Mangement
 
