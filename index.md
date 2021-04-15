@@ -14,8 +14,9 @@ The JamCovid System is used to manage promoters and events
 - Event Management
     -  [Add](#add_event)
     -  [Delete](#del_event)
+    -  [Save](#save_event)
     -  [Invite](#invite)
-    -  [Back](#back-event)
+    -  [Back](#back_event)
 
 ## Promoter Management
 
