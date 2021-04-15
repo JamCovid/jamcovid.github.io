@@ -4,7 +4,7 @@ The JamCovid System is used to manage promoters and events
 
 ## Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](Img/EntryScreen.png)
 
 ```markdown
 Syntax highlighted code block
