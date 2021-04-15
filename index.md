@@ -105,12 +105,25 @@ Navigates back to the mainpage
 ## Event Management
 
 1. Select Event Mangement
+
+<br/>
+
+<br/>
+
 ![Entry Screen](Img/event_man.png)
 
 ### Add
 
 1. Select the add button and enter data
+
+<br/>
+
+<br/>
+
 ![Add Button](/Img/add_event.png)
+
+<br/>
+
 ![Add event Entry](Img/add_event_entry.png)
 
 ### Edit
@@ -118,7 +131,14 @@ Navigates back to the mainpage
 1. Select the event you wish to edit
 2. Click the edit button
 
+<br/>
+
+<br/>
+
 ![Edit event](Img/event_edit.png)
+
+<br/>
+
 ![Edit event Entry](Img/event_prom_entry.png)
 
 ### Delete
@@ -126,11 +146,19 @@ Navigates back to the mainpage
 1. Select the event you wish to delete
 2. Click the delete button
 
+<br/>
+
+<br/>
+
 ![Delete event](Img/del_event.png)
 
 ### Save
 
 1. Click Ctrl-s to save entries
+
+<br/>
+
+<br/>
 
 ![Save event](Img/save_event.png)
 
@@ -139,6 +167,7 @@ Navigates back to the mainpage
 Sends out an invitation to everyone on a mailing list.
 
 1. Select the event and click the invite button
+
 <br/>
 
 ![Invite Button](Img/invite_button.png)
