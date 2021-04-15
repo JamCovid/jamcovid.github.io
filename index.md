@@ -8,14 +8,14 @@ The JamCovid System is used to manage promoters and events
     -  [Add](#add_prom)
     -  [Edit](#edit_prom)
     -  [Delete](#del_prom)
-    -  Clear All
-    -  Save
-    -  Back
+    -  [Clear All](#clear_all)
+    -  [Save](#save_prom)
+    -  [Back](#back_prom)
 - Event Management
-    -  Add
-    -  Delete
-    -  Invite
-    -  Back
+    -  [Add](#add_event)
+    -  [Delete](#del_event)
+    -  [Invite](#invite)
+    -  [Back](#back-event)
 
 ## Promoter Management
 
@@ -40,7 +40,7 @@ The JamCovid System is used to manage promoters and events
 
 ![Add Promoter Entry](Img/add_prom_entry.png)
 
-### Edit
+### <a name="edit_prom"></a> Edit
 
 1. Select the promoter you wish to edit
 2. Click the edit button
@@ -55,7 +55,7 @@ The JamCovid System is used to manage promoters and events
 
 ![Edit Promoter Entry](Img/add_prom_entry.png)
 
-### Delete
+### <a name="del_prom"></a> Delete
 
 1. Select the promoter you wish to delete
 2. Click the delete button
@@ -66,7 +66,7 @@ The JamCovid System is used to manage promoters and events
 
 ![Delete Promoter](Img/del_prom.png)
 
-### Clear All
+### <a name="clear_all"></a> Clear All
 
 Removes all entry from the table
 
@@ -76,7 +76,7 @@ Removes all entry from the table
 
 ![Clear All](Img/clear_all.png)
 
-### Save
+### <a name="save_prom"></a> Save
 
 1. Click the save button or Ctrl-s to save entries
 
@@ -86,7 +86,7 @@ Removes all entry from the table
 
 ![Save promoters](Img/save_prom.png)
 
-### Back
+### <a name="back_prom"></a> Back
 
 Navigates back to the mainpage
 
@@ -112,7 +112,7 @@ Navigates back to the mainpage
 
 ![Entry Screen](Img/event_man.png)
 
-### Add
+### <a name="add_event"></a> Add
 
 1. Select the add button and enter data
 
@@ -126,7 +126,7 @@ Navigates back to the mainpage
 
 ![Add event Entry](Img/add_event_entry.png)
 
-### Edit
+### <a name="edit_event"></a> Edit
 
 1. Select the event you wish to edit
 2. Click the edit button
@@ -141,7 +141,7 @@ Navigates back to the mainpage
 
 ![Edit event Entry](Img/event_prom_entry.png)
 
-### Delete
+### <a name="del_event"></a> Delete
 
 1. Select the event you wish to delete
 2. Click the delete button
@@ -152,7 +152,7 @@ Navigates back to the mainpage
 
 ![Delete event](Img/del_event.png)
 
-### Save
+### <a name="save_event"></a> Save
 
 1. Click Ctrl-s to save entries
 
@@ -162,7 +162,7 @@ Navigates back to the mainpage
 
 ![Save event](Img/save_event.png)
 
-### Invite
+### <a name="invite"></a> Invite
 
 Sends out an invitation to everyone on a mailing list.
 
@@ -184,7 +184,7 @@ Sends out an invitation to everyone on a mailing list.
 
 3. Click the OK button to send emails
 
-### Back
+### <a name="back_event"></a> Back
 
 Navigates back to the mainpage
 
