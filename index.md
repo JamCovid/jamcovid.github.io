@@ -164,7 +164,7 @@ Navigates back to the mainpage
 
 Sends out an invitation to everyone on a mailing list.
 
-1. Select the event and click the invite button
+Select the event and click the invite button
 
 <br/>
 
@@ -172,7 +172,7 @@ Sends out an invitation to everyone on a mailing list.
 
 <br/>
 
-2. Add emails using the add button or Ctrl-m to load mailing list
+Add emails using the add button or Ctrl-m to load mailing list
 
 <br/>
 
@@ -180,7 +180,7 @@ Sends out an invitation to everyone on a mailing list.
 
 <br/>
 
-3. Click the OK button to send emails
+Click the OK button to send emails
 
 ### <a name="back_event"></a> Back
 
