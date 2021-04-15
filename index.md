@@ -127,7 +127,7 @@ Navigates back to the mainpage
 
 ### <a name="add_event"></a> Add
 
-1. Select the add button and enter data
+1. Select the add button and enter data or Ctrl-e to load data
 
 <br/>
 
