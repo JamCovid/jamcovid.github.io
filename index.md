@@ -28,6 +28,10 @@ The JamCovid System is used to manage promoters and events
 
 ![Entry Screen](Img/prom_man.png)
 
+<br/>
+
+![Promoter man page](Img/prom_man_page.png)
+
 ### <a name="add_prom"></a> Add
 
 1. Select the add button to add promoter or Ctrl-p to load data
@@ -87,6 +91,14 @@ Removes all entry from the table
 
 ![Save promoters](Img/save_prom.png)
 
+<br/>
+
+2. Enter name to save as
+
+<br/>
+
+![save dialog](Img/save_prom_dia.png)
+
 ### <a name="back_prom"></a> Back
 
 Navigates back to the mainpage
@@ -126,21 +138,6 @@ Navigates back to the mainpage
 <br/>
 
 ![Add event Entry](Img/add_event_entry.png)
-
-### <a name="edit_event"></a> Edit
-
-1. Select the event you wish to edit
-2. Click the edit button
-
-<br/>
-
-<br/>
-
-![Edit event](Img/event_edit.png)
-
-<br/>
-
-![Edit event Entry](Img/event_prom_entry.png)
 
 ### <a name="del_event"></a> Delete
 
