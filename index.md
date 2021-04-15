@@ -21,7 +21,9 @@ The JamCovid System is used to manage promoters and events
 
 1. Select Promoter Mangement
 <br/>
+
 <br/>
+
 ![Entry Screen](Img/EntryScreen.png)
 
 ### Add
