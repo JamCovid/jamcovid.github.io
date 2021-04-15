@@ -4,32 +4,59 @@ The JamCovid System is used to manage promoters and events
 
 ## Table of Contents
 
-![](Img/EntryScreen.png)
+- Promoter Management
+    -  Add
+    -  Edit
+    -  Delete
+    -  Clear All
+    -  Save
+    -  Back
+- Event Management
+    -  Add
+    -  Delete
+    -  Invite
+    -  Back
 
-```markdown
-Syntax highlighted code block
+## Promoter Management
 
-# Header 1
-## Header 2
-### Header 3
+1. Select Promoter Mangement
+![Entry Screen](Img/EntryScreen.png)
 
-- Bulleted
-- List
+### Add
 
-1. Numbered
-2. List
+1. Select the add button and enter data
+![Add Button](/Img/add_prom.png)
+![Add Promoter Entry](Img/add_prom_entry.png)
 
-**Bold** and _Italic_ and `Code` text
+### Edit
 
-[Link](url) and ![Image](src)
-```
+1. Select the promoter you wish to edit
+2. Click the edit button
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Edit Promoter](Img/prom_edit.png)
+![Edit Promoter Entry](Img/add_prom_entry.png)
 
-### Jekyll Themes
+### Delete
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamCovid/jamcovid.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Select the promoter you wish to delete
+2. Click the delete button
 
-### Support or Contact
+![Delete Promoter](Img/del_prom.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Clear All
+
+Removes all entry from the table
+
+![Clear All](Img/clear_all.png)
+
+### Save
+
+1. Click the save button or Ctrl-s to save entries
+
+![Save promoters](Img/save_prom.png)
+
+### Back
+
+Navigates back to the mainpage
+
+![Back](Img/back_prom.png)
